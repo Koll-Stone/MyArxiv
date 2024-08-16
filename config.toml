@@ -17,6 +17,11 @@ limit = 150
 category = "cs.OS"
 title = "Operating Systems"
 
+[[sources]]
+limit = 150
+category = "eess"
+title = "OTFS"
+
 
 [scripts]
 highlight_title = "scripts/highlight_title.rhai"
