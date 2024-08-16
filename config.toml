@@ -1,5 +1,5 @@
 site_title = "MyArxiv"
-limit_days = 3
+limit_days = 2
 cache_url = "https://Koll-Stone.github.io/MyArxiv/cache.json"
 
 [[sources]]
@@ -25,7 +25,7 @@ title = "Information Theory"
 [[sources]]
 limit = 150
 category = "eess.SP"
-title = "Signal Processing - OTFS"
+title = "Signal Processing"
 
 
 [scripts]
