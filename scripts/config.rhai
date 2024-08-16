@@ -2,7 +2,7 @@ let titles_type = ["Survey", "Review", "SoK"];
 let titles_bc = ["Consensus", "Byzantine", "Blockchain"];
 let titles_zk = ["Zero Knowledge", "zk", "secret sharing"];
 let titles_auth = ["authenticate", "handover", "anonymous"]
-let titles = titles_type + titlesbc + titles_zk + titles_auth;
+let titles = titles_type + titles_bc + titles_zk + titles_auth;
 let authors_array = ["Ling Ren", "Miguel Correia", "Sisi Duan", "Alysson Bessani", "Ittai Abraham"];
 
 let conferences = [
