@@ -14,13 +14,13 @@ title = "Distributed, Parallel, and Cluster Computing"
 
 [[sources]]
 limit = 150
-category = "cs.IT"
-title = "Information Theory"
+category = "cs.OS"
+title = "Operating Systems"
 
 [[sources]]
 limit = 150
-category = "cs.OS"
-title = "Operating Systems"
+category = "cs.IT"
+title = "Information Theory"
 
 [[sources]]
 limit = 150
