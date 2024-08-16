@@ -1,9 +1,9 @@
 let titles_type = ["Survey", "Review", "SoK"];
-let titles_bc = ["Consensus", "Byzantine", "BFT", "Blockchain", "smart contract"];
+let titles_bc = ["Consensus", "Byzantine", "BFT", "Blockchain", "smart contract", "trust"];
 let titles_zk = ["Zero Knowledge", "zk", "secret sharing", "quantum"];
-let titles_auth = ["authenticate", "handover", "anonymous", "satellite"];
+let titles_auth = ["authenticate", "access", "handover", "anonymous", "satellite"];
 let titles = titles_type + titles_bc + titles_zk + titles_auth;
-let authors_array = ["Ling Ren", "Miguel Correia", "Sisi Duan", "Alysson Bessani", "Ittai Abraham"];
+let authors_array = ["Ling Ren", "Miguel Correia", "Sisi Duan", "Alysson Bessani", "Ittai Abraham", "Xiuzhen Cheng"];
 
 let conferences = [
         // AI
