@@ -14,13 +14,18 @@ title = "Distributed, Parallel, and Cluster Computing"
 
 [[sources]]
 limit = 150
+category = "cs.IT"
+title = "Information Theory"
+
+[[sources]]
+limit = 150
 category = "cs.OS"
 title = "Operating Systems"
 
 [[sources]]
 limit = 150
-category = "eess"
-title = "OTFS"
+category = "eess.SP"
+title = "Signal Processing - OTFS"
 
 
 [scripts]
