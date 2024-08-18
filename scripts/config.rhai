@@ -4,7 +4,7 @@ let titles_zk = ["Zero Knowledge", "zk", "secret sharing", "quantum"];
 let titles_auth = ["authenticate", "access", "handover", "anonymous", "satellite"];
 let titles_otfs = ["otfs"];
 let titles = titles_type + titles_bc + titles_zk + titles_auth + titles_otfs;
-let authors_array = ["Ling Ren", "Miguel Correia", "Sisi Duan", "Alysson Bessani", "Ittai Abraham", "Xiuzhen Cheng","Ronny Hadani","Emanuele Viterbo","Yi Hong","Shuangyang Li","Lajos Hanzo","Arman Farhang"];
+let authors_array = ["Ling Ren", "Miguel Correia", "Sisi Duan", "Alysson Bessani", "Ittai Abraham", "Xiuzhen Cheng", "Dahlia Malkhi", "Michael Reiter", "Ronny Hadani","Emanuele Viterbo","Yi Hong","Shuangyang Li","Lajos Hanzo","Arman Farhang"];
 
 let conferences = [
         // AI
