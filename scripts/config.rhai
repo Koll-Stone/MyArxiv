@@ -1,5 +1,5 @@
 let titles_type = ["Survey", "Review", "SoK"];
-let titles_bc = ["Consensus", "Byzantine", "BFT", "Blockchain", "smart contract", "trust"];
+let titles_bc = ["Consensus", "Byzantine", "BFT", "fault toleran",  "Blockchain", "smart contract", "trust"];
 let titles_zk = ["Zero Knowledge", "zk", "secret sharing", "quantum"];
 let titles_auth = ["authenticate", "access", "handover", "anonymous", "satellite"];
 let titles_otfs = ["otfs"];
