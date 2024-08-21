@@ -19,7 +19,7 @@ let conferences = [
     // Arch
     "ASPLOS", "ATC", "DATE", "EuroSys", "FAST", "HPCA", "ISCA", "MICRO", "PPoPP", "SC", "SoCC",
     // System
-    "FSE/ESEC", "ICSE", "ISSTA", "OSDI", "SOSP", "DSN", "SRDS", "PODC", "OPODIS",
+    "FSE/ESEC", "ICSE", "ISSTA", "OSDI", "SOSP", "DSN", "SRDS", "PODC", "OPODIS", "DISC",
     // Security
     "ACSA", "AsiaCCS", "CCS", "DSN", "ESORICS", "EuroS&P", "ICICS", "NDSS", "RAID", "SP", "USENIX Security", "TDSC", "TIFS",
     // EE
