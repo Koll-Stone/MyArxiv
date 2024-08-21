@@ -33,13 +33,12 @@ if (currentTheme) {
 }
 
 const timestamp = document.getElementById("build-timestamp");
-const timestamp_utc = new Date(timestamp.getAttribute("datetime"));
 
+const timestamp_utc = new Date(timestamp.getAttribute("datetime"));
 const timestamp_local = timestamp_utc.toLocaleString('zh-CN', {
     timeZone: 'Asia/Shanghai',
     hour12: false,
 });
-
 // const timestamp_local = new Date(timestamp.getAttribute("datetime")).toLocaleString();
 
 const badge = document.getElementById("build-timestamp-badge");
