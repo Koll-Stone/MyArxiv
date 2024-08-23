@@ -21,7 +21,7 @@ let conferences = [
     // System
     "FSE/ESEC", "ICSE", "ISSTA", "OSDI", "SOSP", "DSN", "SRDS", "PODC", "OPODIS", "DISC",
     // Security
-    "ACSA", "AsiaCCS", "CCS", "DSN", "ESORICS", "EuroS&P", "ICICS", "NDSS", "RAID", "SP", "USENIX Security", "TDSC", "TIFS",
+    "ACSAC", "AsiaCCS", "CCS", "DSN", "ESORICS", "EuroS&P", "ICICS", "NDSS", "RAID", "SP", "USENIX Security", "TDSC", "TIFS",
     // EE
     "TWC", "TCOM", "JSAC", "TMC", "TON", "INFOCOM", "TVT", "WCL", "CL", "TIT",  "TITS", 
     // others
