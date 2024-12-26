@@ -4,7 +4,7 @@ let titles_zk = ["Zero Knowledge", "zk", "secret sharing", "quantum"];
 let titles_auth = ["authenticate", "access", "handover", "anonymous", "satellite"];
 let titles_fl = ["federated learning", "fl"];
 let titles_otfs = ["otfs"];
-let titles = titles_type + titles_bc + titles_zk + titles_auth + titles_fl + titles_otfs;
+let titles = titles_type + titles_bc + titles_zk + titles_auth + titles_otfs;
 let authors_array = ["Ling Ren", "Miguel Correia", "Luis Rodrigues", "Rodrigo Rodrigues", "Nuno Santos", "Rodrigo Bruno", "Sisi Duan", "Alysson Bessani", "Ittai Abraham", "Xiuzhen Cheng", "Dahlia Malkhi", "Michael Reiter", "Yupeng zhang", "david tse", "kaiping xue", "zheng yan", "jin cao", "Ronny Hadani","Emanuele Viterbo","Yi Hong","Shuangyang Li","Lajos Hanzo","Arman Farhang"];
 
 let conferences = [
